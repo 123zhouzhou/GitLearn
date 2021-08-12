@@ -1,3 +1,4 @@
-work scene
+Work scene
 lots of things to do.
 Continue work, dala~
+print("Hello World!")
